@@ -1,0 +1,16 @@
+/* Style do p */
+p {
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+}
+
+/* Zmiana tła dla klasy "col" */
+.col {
+    background-color: coral;
+}
+
+/* Dodaję przezroczystość za pomócą "opacity" */
+.opacity {
+    opacity: 0.3;
+}
